@@ -38,6 +38,9 @@ I'm Utsav, a Pro(Just above Beginners😁) Full Stack Developer.
 - 🔗 facebook : <a  target="_blank" href = "https://www.facebook.com/utsavbhattarai007"> utsavbhattarai007 </a>
 - 🔗 Instagram : <a target="_blank" href = "https://www.instagram.com/utsavbhattarai007"> utsavbhattarai007 </a>
 - 🔗 Gmail : utsavbhattarai007@gmail.com
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=utsavbhattarai007&show_icons=true"/>
  
 
  
