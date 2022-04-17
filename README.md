@@ -3,7 +3,7 @@
 
 ```
 
-I'm Utsav, a Pro(Just above Beginners😁) Full Stack Developer.
+I'm Utsav, a Little bit Pro😁 Full Stack Developer.
 
 ```
 
@@ -28,8 +28,6 @@ I'm Utsav, a Pro(Just above Beginners😁) Full Stack Developer.
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40px"></span>&nbsp;
-
-<br />
 
 ### 👇 Find me on 
 
