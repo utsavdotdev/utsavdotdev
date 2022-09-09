@@ -6,9 +6,12 @@
 I'm Utsav, a Little bit Pro😁 Full Stack Developer.
 
 ```
-<a href="https://app.daily.dev/Utsav"><img src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a>
+<p float="left">
+ 
+<a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a>
 
 ### 👨‍💻 About me
+ 
 
 - ⚛️ Comfortable in => React, Express, Node Js , MongoDB.
 - 💡 I’m currently learning => Everything 😁 .
@@ -17,7 +20,7 @@ I'm Utsav, a Little bit Pro😁 Full Stack Developer.
 - 💬 Ask me about =>  Anything Tech related stuff.
 - 🎯 2022 Goals => Learning and Completing many Awesome projects.
 
-
+<p/>
 
 ###  🛠 Languages and Tools:
 
