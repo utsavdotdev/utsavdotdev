@@ -1,4 +1,5 @@
 <b>
+	
 ## H3llo 👋
 
 ```
@@ -7,9 +8,8 @@ I'm Utsav, a Self-taught Programmer;
 
 ```
 
-<p float="left">
 
- <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+ <img align="right" vertical-align="middle" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
  <!-- <a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a> -->
 
@@ -26,7 +26,6 @@ I'm Utsav, a Self-taught Programmer;
 - ⚡ Fun fact: I love working by myself.
 - 🥅 2022 Goals: Hmm..thinking.!
 
-<p/>
 
 ### 🛠 Languages and Tools:
 
@@ -72,8 +71,8 @@ I'm Utsav, a Self-taught Programmer;
 
 <p align="center">
  <br/>
-<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&hide_langs_below=1&layout=compact&border_color=7cebf5&border_radius=10" height="192px"/>
+<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10&line_height=31" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&hide_langs_below=1&layout=compact&border_color=7cebf5&border_radius=10" width="48%"/>
  <br/>
  </p>
  </br>
