@@ -1,3 +1,4 @@
+<b>
 ## H3llo 👋
 
 ```
@@ -7,21 +8,23 @@ I'm Utsav, a Self-taught Programmer;
 ```
 
 <p float="left">
- 
-<a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a>
+
+ <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+
+ <!-- <a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a> -->
+
 
 ### 👨‍💻 About me
 
 - 🔭 Looking for freelance opportunities
+- ⚛️ Comfortable in React, Express, Node Js , MongoDB.
 - 🌱 I’m currently learning EveryThing
-- ⚛️ Comfortable in React, Express, Node Js , MongoDB(MERN).
-- 💖 Love to learn and share about new tech stack
 - 👯 I’m looking to collaborate with Pro-developers
 - 💬 Ask me about Anything Tech Related stuff
 - 📫 How to reach me: stu@utsavbhattarai.info.np <br>
-- 🥅 2022 Goals: Hmm..thinking.!
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: I love working by myself.
+- 🥅 2022 Goals: Hmm..thinking.!
 
 <p/>
 
@@ -41,9 +44,10 @@ I'm Utsav, a Self-taught Programmer;
 <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=utsavbhattarai007&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
 </div>
 
-<h3 align="right">I ❤️ Memes :wink:</h3>
+<h3 align="right">I 💖 Memes 😉</h3>
 <img align="right" alt="Random Memes" title="programming memes by utsav" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
- 
+
+
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -58,7 +62,7 @@ I'm Utsav, a Self-taught Programmer;
 
 ---
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;💖&nbsp; by starring some of the repositories!</h3>
  <p align="center">
 	<a href="mailto:stu@utsavbhattarai007?subject=Github%20Visitor&body=Hi%20Utsav,..."><img src="http://img.shields.io/badge/stu@utsavbhattarai.info.np-_?label=Send%20Mail&style=social&logo=gmail" alt="stu@utsavbhattarai.info.np"></a>
 	<a href="https://twitter.com/utsabdev"><img src="https://img.shields.io/twitter/follow/utsabdev" alt="Twitter"></a>
@@ -72,3 +76,4 @@ I'm Utsav, a Self-taught Programmer;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&hide_langs_below=1&layout=compact&border_color=7cebf5&border_radius=10" height="192px"/>
  <br/>
  </p>
+ </br>
