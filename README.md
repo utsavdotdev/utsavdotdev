@@ -45,6 +45,7 @@ I'm Utsav, a Self-taught Programmer;
 <img align="right" alt="Random Memes" title="programming memes by utsav" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
  
 <h3>📕 Latest Blog Posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [What is JWT&lpar;Json web token&rpar;: Part-1](https://blog.utsavbhattarai.info.np/what-is-jwtjson-web-token-part-1)
 - [Authorization vs Authentication](https://blog.utsavbhattarai.info.np/authorization-vs-authentication)
@@ -52,6 +53,8 @@ I'm Utsav, a Self-taught Programmer;
 - [Meet my latest project - Ideao💡](https://blog.utsavbhattarai.info.np/meet-my-latest-project-ideao)
 - [How to display a image selected from input file in react?](https://blog.utsavbhattarai.info.np/how-to-display-a-image-selected-from-input-file-in-react)
 <!-- BLOG-POST-LIST:END -->
+<br/>
+<br/>
 
 ---
 
