@@ -8,9 +8,10 @@ I'm Utsav, a Self-taught Programmer;
 
 ```
 
- <img align="right" height="300px" alt="GIF" src="https://media.giphy.com/media/NUnKElMS1s2Z8wtya8/giphy.gif" />
 
  <!-- <a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a> -->
+ ---
+ <img align="right" height="280px" alt="GIF" src="https://media.giphy.com/media/NUnKElMS1s2Z8wtya8/giphy.gif" />
  
 ### 👨‍💻 About me
 
@@ -40,8 +41,6 @@ I'm Utsav, a Self-taught Programmer;
 <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=utsavbhattarai007&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
 </div>
 
-<h3 align="right">I 💖 Memes 😉</h3>
-<img align="right" alt="Random Memes" title="programming memes by utsav" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 
 <h3>📕 Latest Blog Posts</h3>
 
@@ -53,10 +52,6 @@ I'm Utsav, a Self-taught Programmer;
 - [Meet my latest project - Ideao💡](https://blog.utsavbhattarai.info.np/meet-my-latest-project-ideao)
 - [How to display a image selected from input file in react?](https://blog.utsavbhattarai.info.np/how-to-display-a-image-selected-from-input-file-in-react)
 <!-- BLOG-POST-LIST:END -->
-<br/>
-<br/>
-<br/>
-
 ---
 
 <h3 align="center">Show some &nbsp;💖&nbsp; by starring some of the repositories!</h3>
