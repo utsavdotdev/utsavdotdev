@@ -8,7 +8,7 @@ I'm Utsav, a Self-taught Programmer;
 
 ```
 
- <img align="right" vertical-align="middle" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+ <img align="right" vertical-align="middle" height="270px" alt="GIF" src="https://media.giphy.com/media/NUnKElMS1s2Z8wtya8/giphy.gif" />
 
  <!-- <a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a> -->
 
@@ -52,9 +52,10 @@ I'm Utsav, a Self-taught Programmer;
 - [How to upload an image through Multer to the backend?](https://blog.utsavbhattarai.info.np/how-to-upload-an-image-through-multer-to-the-backend)
 - [Meet my latest project - Ideao💡](https://blog.utsavbhattarai.info.np/meet-my-latest-project-ideao)
 - [How to display a image selected from input file in react?](https://blog.utsavbhattarai.info.np/how-to-display-a-image-selected-from-input-file-in-react)
-  <!-- BLOG-POST-LIST:END -->
-  <br/>
-  <br/>
+<!-- BLOG-POST-LIST:END -->
+<br/>
+<br/>
+<br/>
 
 ---
 
