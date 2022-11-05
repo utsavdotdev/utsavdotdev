@@ -8,10 +8,10 @@ I'm Utsav, a Self-taught Programmer;
 
 ```
 
- <img align="right" vertical-align="middle" height="270px" alt="GIF" src="https://media.giphy.com/media/NUnKElMS1s2Z8wtya8/giphy.gif" />
+ <img align="right" height="300px" alt="GIF" src="https://media.giphy.com/media/NUnKElMS1s2Z8wtya8/giphy.gif" />
 
  <!-- <a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a> -->
-
+ 
 ### 👨‍💻 About me
 
 - 🔭 Looking for freelance opportunities
