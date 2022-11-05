@@ -9,7 +9,7 @@ I'm Utsav, a Self-taught Programmer;
 ```
 
 
- <img align="right" vertical-align="middle" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+ <img align="right" vertical-align="middle" height="270px" alt="GIF" src="https://iili.io/m4NaHJ.th.gif" />
 
  <!-- <a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a> -->
 
