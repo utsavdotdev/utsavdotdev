@@ -1,4 +1,5 @@
 <b>
+	
 ## H3llo 👋
 
 ```
@@ -7,11 +8,9 @@ I'm Utsav, a Self-taught Programmer;
 
 ```
 
-<p float="left">
- <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+ <img align="right" vertical-align="middle" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
  <!-- <a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a> -->
-
 
 ### 👨‍💻 About me
 
@@ -24,8 +23,6 @@ I'm Utsav, a Self-taught Programmer;
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: I love working by myself.
 - 🥅 2022 Goals: Hmm..thinking.!
-
-<p/>
 
 ### 🛠 Languages and Tools:
 
@@ -46,18 +43,18 @@ I'm Utsav, a Self-taught Programmer;
 <h3 align="right">I 💖 Memes 😉</h3>
 <img align="right" alt="Random Memes" title="programming memes by utsav" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 
-
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What is JWT&lpar;Json web token&rpar;: Part-1](https://blog.utsavbhattarai.info.np/what-is-jwtjson-web-token-part-1)
 - [Authorization vs Authentication](https://blog.utsavbhattarai.info.np/authorization-vs-authentication)
 - [How to upload an image through Multer to the backend?](https://blog.utsavbhattarai.info.np/how-to-upload-an-image-through-multer-to-the-backend)
 - [Meet my latest project - Ideao💡](https://blog.utsavbhattarai.info.np/meet-my-latest-project-ideao)
 - [How to display a image selected from input file in react?](https://blog.utsavbhattarai.info.np/how-to-display-a-image-selected-from-input-file-in-react)
-<!-- BLOG-POST-LIST:END -->
-<br/>
-<br/>
+  <!-- BLOG-POST-LIST:END -->
+  <br/>
+  <br/>
 
 ---
 
@@ -71,8 +68,8 @@ I'm Utsav, a Self-taught Programmer;
 
 <p align="center">
  <br/>
-<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&hide_langs_below=1&layout=compact&border_color=7cebf5&border_radius=10" height="192px"/>
+<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10&line_height=31" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&hide_langs_below=1&layout=compact&border_color=7cebf5&border_radius=10" width="48%"/>
  <br/>
  </p>
  </br>
