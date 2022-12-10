@@ -20,7 +20,7 @@ I'm Utsav, a Self-taught Programmer;
 - 📫 How to reach me: stu@utsavbhattarai.info.np <br>
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: I love working by myself.
-- 🥅 2022 Goals: Hmm..thinking.!
+- 👨‍💻 New project: [devport.me](https://devport.me)
 
 ### 🛠 Languages and Tools:
 
