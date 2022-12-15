@@ -42,11 +42,11 @@ I'm Utsav, a Self-taught Programmer;
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [This blog is posted via Easy blog](https://blog.utsavbhattarai.info.np/This blog is posted via Easy blog)
 - [What is JWT&lpar;Json web token&rpar;: Part-1](https://blog.utsavbhattarai.info.np/what-is-jwtjson-web-token-part-1)
 - [Authorization vs Authentication](https://blog.utsavbhattarai.info.np/authorization-vs-authentication)
 - [How to upload an image through Multer to the backend?](https://blog.utsavbhattarai.info.np/how-to-upload-an-image-through-multer-to-the-backend)
 - [Meet my latest project - Ideao💡](https://blog.utsavbhattarai.info.np/meet-my-latest-project-ideao)
+- [How to display a image selected from input file in react?](https://blog.utsavbhattarai.info.np/how-to-display-a-image-selected-from-input-file-in-react)
 <!-- BLOG-POST-LIST:END -->
 ---
 
