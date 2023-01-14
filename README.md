@@ -60,8 +60,8 @@ I'm Utsav, a Self-taught Programmer;
 
 <p align="center">
  <br/>
-<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10&line_height=31" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&hide_langs_below=1&layout=compact&border_color=7cebf5&border_radius=10" width="48%"/>
+<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10&line_height=31" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&layout=compact&border_color=7cebf5&border_radius=10" width="47.5%"/>
  <br/>
  </p>
  </br>
