@@ -53,15 +53,15 @@ I'm Utsav, a Self-taught Programmer;
 <h3 align="center">Show some &nbsp;💖&nbsp; by starring some of the repositories!</h3>
  <p align="center">
 	<a href="mailto:stu@utsavbhattarai007?subject=Github%20Visitor&body=Hi%20Utsav,..."><img src="http://img.shields.io/badge/stu@utsavbhattarai.info.np-_?label=Send%20Mail&style=social&logo=gmail" alt="stu@utsavbhattarai.info.np"></a>
-	<a href="https://twitter.com/utsabdev"><img src="https://img.shields.io/twitter/follow/utsabdev" alt="Twitter"></a>
+	<a href="https://twitter.com/utsabdev"><img src="https://img.shields.io/badge/-40-_?label=Twitter&style=social&logo=twitter" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/utsavbhattarai007"><img src="https://img.shields.io/badge/-122-_?label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://hashnode.com/@utsavbhattarai"><img src="http://img.shields.io/badge/-@utsavbhattarai-_?label=Hashnode&style=social&logo=hashnode" alt="Hashnode"></a>
 </p>
 
 <p align="center">
  <br/>
-<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10&line_height=31" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&layout=compact&border_color=7cebf5&border_radius=10" width="47.5%"/>
+<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10&line_height=31"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&layout=compact&border_color=7cebf5&border_radius=10" width="48%"/>
  <br/>
  </p>
  </br>
