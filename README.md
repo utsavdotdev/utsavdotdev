@@ -42,11 +42,11 @@ I'm Utsav, a Self-taught Programmer;
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflecting on My Journey as a Developer in 2022: A Year of Growth and Adventure](https://blog.utsavbhattarai.info.np/reflecting-on-my-journey-as-a-developer-in-2022-a-year-of-growth-and-adventure)
 - [What is IOT👨‍💻?](https://blog.utsavbhattarai.info.np/what-is-iot)
 - [Code, Conquer, and Create - My Journey as a Developer: Dev Retro 2022](https://blog.utsavbhattarai.info.np/code-conquer-and-create-my-journey-as-a-developer-dev-retro-2022)
 - [What is JWT&lpar;Json web token&rpar;: Part-1](https://blog.utsavbhattarai.info.np/what-is-jwtjson-web-token-part-1)
 - [Authorization vs Authentication](https://blog.utsavbhattarai.info.np/authorization-vs-authentication)
-- [How to upload an image through Multer to the backend?](https://blog.utsavbhattarai.info.np/how-to-upload-an-image-through-multer-to-the-backend)
 <!-- BLOG-POST-LIST:END -->
 ---
 
