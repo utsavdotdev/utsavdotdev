@@ -21,8 +21,8 @@ I'm Utsav, a Self-taught Programmer;
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: I love working by myself.
 - 👨‍💻 New project: [devport.me](https://devport.me)
-- 📁File: [dfd_erd](https://drive.google.com/file/d/19vjBww23HF_E6UHihbeb81bXZ7IRH45C/view?usp=sharing)
-
+<!-- - 📁File: [dfd_erd](https://drive.google.com/file/d/19vjBww23HF_E6UHihbeb81bXZ7IRH45C/view?usp=sharing)
+ -->
 ### 🛠 Languages and Tools:
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40px"></span>&nbsp;
