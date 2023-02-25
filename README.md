@@ -20,8 +20,8 @@ I'm Utsav, a Self-taught Programmer;
 - 📫 How to reach me: stu@utsavbhattarai.info.np <br>
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: I love working by myself.
-- 👨‍💻 New project: [devport.me](https://devport.me)
-- 📁File: [c# report](https://docs.google.com/document/d/17KPDb0W1LATova7aLLrncyPD67Lujg2Ewmb7SdRMDuo/edit?usp=sharing)
+- 👨‍💻 New project: [devhubs.tech](https://devhubs.tech)
+- 📁 File: [c# report](https://docs.google.com/document/d/17KPDb0W1LATova7aLLrncyPD67Lujg2Ewmb7SdRMDuo/edit?usp=sharing)
 	
 ### 🛠 Languages and Tools:
 
