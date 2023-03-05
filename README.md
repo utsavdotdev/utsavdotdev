@@ -33,12 +33,6 @@ I'm Utsav, a Self-taught Programmer;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40px"></span>&nbsp;
 
-### 🏆 Trophies
-
-<div align="left">
-<img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=utsavbhattarai007&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
-</div>
-
 
 <h3>📕 Latest Blog Posts</h3>
 
