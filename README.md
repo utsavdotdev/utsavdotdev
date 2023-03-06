@@ -1,12 +1,15 @@
 <b>
+
+<p align="center">
 	
-## H3llo 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=600&size=24&pause=&color=E9E9E9&center=true&width=1050&vCenter=true&repeat=false&height=30&lines=Hello+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-```
 
-I'm Utsav, a Self-taught Programmer;
-
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=&color=E9E9E9&center=true&vCenter=true&width=1040&repeat=false&height=20&lines=I'm+Utsav+Bhattarai)](https://git.io/typing-svg) 
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=&color=7cebf5&center=true&vCenter=true&width=1040&height=20&lines=Full+Stack+Developer;Blogger;Student)](https://git.io/typing-svg)
+	
+</p>
 
 
  <!-- <a href="https://app.daily.dev/Utsav"><img align="right" src="https://api.daily.dev/devcards/3c54f7fc9fb04cb6a371de8eb8988886.png?r=q4q" width="200" alt="Utsav bhattarai's Dev Card"/></a> -->
@@ -15,13 +18,10 @@ I'm Utsav, a Self-taught Programmer;
 - 🔭 Looking for freelance opportunities
 - ⚛️ Comfortable in React, Express, Node Js , MongoDB.
 - 🌱 I’m currently learning EveryThing
-- 👯 I’m looking to collaborate with Pro-developers
 - 💬 Ask me about Anything Tech Related stuff
 - 📫 How to reach me: stu@utsavbhattarai.info.np <br>
-- 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: I love working by myself.
 - 👨‍💻 New project: [devhubs.tech](https://devhubs.tech)
-- 📁 File: [c# report](https://docs.google.com/document/d/17KPDb0W1LATova7aLLrncyPD67Lujg2Ewmb7SdRMDuo/edit?usp=sharing)
 	
 ### 🛠 Languages and Tools:
 
@@ -43,20 +43,10 @@ I'm Utsav, a Self-taught Programmer;
 - [Code, Conquer, and Create - My Journey as a Developer: Dev Retro 2022](https://blog.utsavbhattarai.info.np/code-conquer-and-create-my-journey-as-a-developer-dev-retro-2022)
 - [What is JWT&lpar;Json web token&rpar;: Part-1](https://blog.utsavbhattarai.info.np/what-is-jwtjson-web-token-part-1)
 <!-- BLOG-POST-LIST:END -->
----
 
-<h3 align="center">Show some &nbsp;💖&nbsp; by starring some of the repositories!</h3>
- <p align="center">
-	<a href="mailto:stu@utsavbhattarai007?subject=Github%20Visitor&body=Hi%20Utsav,..."><img src="http://img.shields.io/badge/stu@utsavbhattarai.info.np-_?label=Send%20Mail&style=social&logo=gmail" alt="stu@utsavbhattarai.info.np"></a>
-	<a href="https://twitter.com/utsabdev"><img src="https://img.shields.io/badge/-40-_?label=Twitter&style=social&logo=twitter" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/utsavbhattarai007"><img src="https://img.shields.io/badge/-122-_?label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://hashnode.com/@utsavbhattarai"><img src="http://img.shields.io/badge/-@utsavbhattarai-_?label=Hashnode&style=social&logo=hashnode" alt="Hashnode"></a>
-</p>
 
-<p align="center">
- <br/>
+## 📈Github Stats
 <img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10&line_height=31"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&layout=compact&border_color=7cebf5&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&layout=compact&border_color=7cebf5&border_radius=10" width="41%"/>
  <br/>
- </p>
  </br>
