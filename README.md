@@ -34,11 +34,11 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Warriors Unite: Conquering Bugs at the Offline Hackathon](https://blog.utsavbhattarai.info.np/code-warriors-unite-conquering-bugs-at-the-offline-hackathon)
 - [How to make Tic Tac Toe console game using C# in Vs code?](https://blog.utsavbhattarai.info.np/how-to-make-tic-tac-toe-console-game-using-c-in-vs-code)
 - [Reflecting on My Journey as a Developer in 2022: A Year of Growth and Adventure](https://blog.utsavbhattarai.info.np/reflecting-on-my-journey-as-a-developer-in-2022-a-year-of-growth-and-adventure)
 - [What is IOT👨‍💻?](https://blog.utsavbhattarai.info.np/what-is-iot)
 - [Code, Conquer, and Create - My Journey as a Developer: Dev Retro 2022](https://blog.utsavbhattarai.info.np/code-conquer-and-create-my-journey-as-a-developer-dev-retro-2022)
-- [What is JWT&lpar;Json web token&rpar;: Part-1](https://blog.utsavbhattarai.info.np/what-is-jwtjson-web-token-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 
