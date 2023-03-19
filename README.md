@@ -19,6 +19,10 @@
 - 📫 How to reach me: stu@utsavbhattarai.info.np <br>
 - ⚡ Fun fact: I love working by myself.
 - 👨‍💻 New project: [devhubs.tech](https://devhubs.tech)
+- 📁 SE: [se final.pdf](https://github.com/utsavbhattarai007/utsavbhattarai007/files/11010146/se.final.pdf)
+- 📁 Math: [Math practical 12 final.pdf](https://github.com/utsavbhattarai007/utsavbhattarai007/files/11010148/Math.practical.12.final.pdf)
+
+
 	
 ### 🛠 Languages and Tools:
 
