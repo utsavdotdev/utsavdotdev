@@ -2,9 +2,9 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=&color=E9E9E9&center=true&vCenter=true&width=1040&repeat=false&height=20&lines=Hello+%F0%9F%91%8B+I'm+Utsav+Bhattarai)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=&color=E9E9E9&center=true&vCenter=true&width=1040&repeat=false&height=25&lines=Hello+%F0%9F%91%8B+I'm+Utsav+Bhattarai)](https://git.io/typing-svg) 
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=&color=7cebf5&center=true&vCenter=true&width=1040&height=20&lines=Full+Stack+Developer;Blogger;Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=&color=7cebf5&center=true&vCenter=true&width=1040&height=25&lines=Full+Stack+Developer;Blogger;Student)](https://git.io/typing-svg)
 	
 </p>
 
