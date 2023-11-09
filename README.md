@@ -37,11 +37,11 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [A Recap of Hacktoberfest 2023](https://utsavbhattarai.hashnode.dev/a-recap-of-hacktoberfest-2023)
 - [Participating in the Airbyte x Hashnode Hackathon: My Story](https://utsavbhattarai.hashnode.dev/participating-in-the-airbyte-x-hashnode-hackathon-my-story)
 - [🌍Introducing Devhub: Uniting Coders, Catalyzing Innovation!](https://utsavbhattarai.hashnode.dev/introducing-devhub-uniting-coders-catalyzing-innovation)
 - [Code Warriors Unite: Conquering Bugs at the Offline Hackathon](https://utsavbhattarai.hashnode.dev/code-warriors-unite-conquering-bugs-at-the-offline-hackathon)
 - [How to make Tic Tac Toe console game using C# in Vs code?](https://utsavbhattarai.hashnode.dev/how-to-make-tic-tac-toe-console-game-using-c-in-vs-code)
-- [Reflecting on My Journey as a Developer in 2022: A Year of Growth and Adventure](https://utsavbhattarai.hashnode.dev/reflecting-on-my-journey-as-a-developer-in-2022-a-year-of-growth-and-adventure)
 <!-- BLOG-POST-LIST:END -->
 
 
