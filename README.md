@@ -18,7 +18,7 @@
 - 💬 Ask me about Anything Tech Related stuff
 - 📫 How to reach me: stu@utsavbhattarai.info.np <br>
 - ⚡ Fun fact: I love working by myself.
-- 👨‍💻 New project: [devhubs.tech](https://devhubs.tech)
+- 👨‍💻 New project: [apexa.ai](http://194.195.114.83/)
 <!-- - 📁 SE: [se final.pdf](https://github.com/utsavbhattarai007/utsavbhattarai007/files/11010146/se.final.pdf)
  -->
 
