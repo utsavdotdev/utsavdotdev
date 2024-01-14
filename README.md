@@ -37,11 +37,11 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Apexa - The Analyzer](https://utsavbhattarai.hashnode.dev/introducing-apexa-the-analyzer)
 - [A Recap of Hacktoberfest 2023](https://utsavbhattarai.hashnode.dev/a-recap-of-hacktoberfest-2023)
 - [Participating in the Airbyte x Hashnode Hackathon: My Story](https://utsavbhattarai.hashnode.dev/participating-in-the-airbyte-x-hashnode-hackathon-my-story)
 - [🌍Introducing Devhub: Uniting Coders, Catalyzing Innovation!](https://utsavbhattarai.hashnode.dev/introducing-devhub-uniting-coders-catalyzing-innovation)
 - [Code Warriors Unite: Conquering Bugs at the Offline Hackathon](https://utsavbhattarai.hashnode.dev/code-warriors-unite-conquering-bugs-at-the-offline-hackathon)
-- [How to make Tic Tac Toe console game using C# in Vs code?](https://utsavbhattarai.hashnode.dev/how-to-make-tic-tac-toe-console-game-using-c-in-vs-code)
 <!-- BLOG-POST-LIST:END -->
 
 
