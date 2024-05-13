@@ -18,7 +18,7 @@
 - 💬 Ask me about Anything Tech Related stuff
 - 📫 How to reach me: stu@utsavbhattarai.info.np <br>
 - ⚡ Fun fact: I love working by myself.
-- 👨‍💻 New project: ...
+- 👨‍💻 New project: Soon
  -->
 
 	
