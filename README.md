@@ -45,8 +45,8 @@
 
 ### 📈Github Stats
 <div>
-<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavbhattarai007&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" height="100%" width="46%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbhattarai007&theme=react&layout=compact&border_color=7cebf5&border_radius=10" height="100%" width="34%"/>
+<img alt="Utsav's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=utsavdotdev&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" height="100%" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavdotdev&theme=react&layout=compact&border_color=7cebf5&border_radius=10" height="100%" width="34%"/>
  </div>
  <br/>
  </br>
