@@ -14,7 +14,7 @@
 
 - 🔭 Looking for freelance opportunities
 - ⚛️ Comfortable in React, Express, Node Js , MongoDB.
-- 🌱 I’m currently learning EveryThing
+- 🌱 I’m currently learning Nextjs
 - 💬 Ask me about Anything Tech Related stuff
 - 📫 How to reach me: stu@utsavbhattarai.info.np <br>
 - ⚡ Fun fact: I love working by myself.
